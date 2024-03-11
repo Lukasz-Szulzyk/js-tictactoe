@@ -1,1 +1,1 @@
-Simple Javascript game of Ti Tac Toe
+Simple Javascript game of Tic Tac Toe
